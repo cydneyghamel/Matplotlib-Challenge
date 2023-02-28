@@ -1,20 +1,14 @@
-# Visualization-Challenge
+# Matplotlib-Challenge
 Module 5 Challenge (Pymaceuticals)
 Instructions
 This assignment is broken down into the following tasks:
 
-# Prepare the data.
-
+Prepare the data.
 Generate summary statistics.
-
 Create bar charts and pie charts.
-
 Calculate quartiles, find outliers, and create a box plot.
-
 Create a line plot and a scatter plot.
-
 Calculate correlation and regression.
-
 Submit your final analysis.
 
 # Prepare the Data
@@ -53,7 +47,7 @@ Create a grouped DataFrame that shows the last (greatest) time point for each mo
 
 Create a list that holds the treatment names as well as a second, empty list to hold the tumor volume data.
 
-# Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list.
+Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list.
 
 # Determine outliers by using the upper and lower bounds, and then print the results.
 
