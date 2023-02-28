@@ -1,4 +1,4 @@
-# Visualization-Challenge
+# Matplotlib-Challenge
 Module 5 Challenge (Pymaceuticals)
 Instructions
 This assignment is broken down into the following tasks:
