@@ -3,7 +3,7 @@ Module 5 Challenge (Pymaceuticals)
 Instructions
 This assignment is broken down into the following tasks:
 
-# Prepare the data.
+Prepare the data.
 
 Generate summary statistics.
 
